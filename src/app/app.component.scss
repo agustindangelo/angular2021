@@ -1,0 +1,18 @@
+// .resaltado{
+//   color: tomato;
+//   transition: all 1s;
+// }
+
+// .atenuado {
+//   color: lightblue;
+//   transition: all 1s;
+// }
+:host {
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.completed {
+  color: blueviolet;
+  font-style: italic;
+}
